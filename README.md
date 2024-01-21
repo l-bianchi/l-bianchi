@@ -33,3 +33,5 @@
 </div>
 
 ###
+
+<a href="https://app.daily.dev/lorandus"><img src="https://api.daily.dev/devcards/946db74dc3d04614a0f9fcba99a0648a.png?r=okk" width="400" alt="Lorenzo's Dev Card"/></a>

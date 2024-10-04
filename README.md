@@ -14,4 +14,4 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=bash,deno,docker,elasticsearch,fastapi,git,js,neovim,nestjs,nodejs,postgres,prisma,py,rust,svelte,tailwind,tauri,ts,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,deno,docker,elasticsearch,fastapi,git,js,neovim,nestjs,nodejs,postgres,prisma,py,rust,svelte,tailwind,tauri,ts,vite,godot&theme=dark)](https://skillicons.dev)

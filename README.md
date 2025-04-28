@@ -6,12 +6,9 @@
 
 ###
 
-<p align="left">I'm Lorenzo from Italy.<br><br>- 🔭 I’m working as a software developer<br>- 📚 I'm currently learning rust<br>- ⚡ In my free time I play games</p>
+Hi, I'm Lorenzo!
+I'm an indie game developer passionate about creating unique, fun, and meaningful gaming experiences.
+I love building games with Godot, experimenting with new mechanics, and constantly learning new things.
+Here you'll find my projects, prototypes, and experiments — feel free to explore!
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=bash,deno,docker,elasticsearch,fastapi,git,js,neovim,nestjs,nodejs,postgres,prisma,py,rust,svelte,tailwind,tauri,ts,vite,godot&theme=dark)](https://skillicons.dev)
+Always excited to connect and collaborate. 🚀
